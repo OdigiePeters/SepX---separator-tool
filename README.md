@@ -1,6 +1,6 @@
 # SepX
 
-A powerful Python utility that inserts a separator (default `,`) between tokens in a given input string.
+A powerful separator tool with modern GUI - adds separators between tokens in any input text
 
 ## Usage
 
@@ -12,7 +12,7 @@ Launch the graphical interface:
 python gui.py
 ```
 
-![SepX GUI](C:/Users/DELL/.gemini/antigravity/brain/dd075330-1425-4d6b-a054-54404b960dc3/sepx_orange_theme_1764161147478.png)
+![SepX GUI](https://raw.githubusercontent.com/OdigiePeters/SepX---separator-tool/main/screenshots/sepx_gui.png)
 
 The GUI provides:
 - **Text input area** for any content (supports multiline, special characters, numbers, etc.)
